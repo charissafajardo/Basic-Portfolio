@@ -1,0 +1,54 @@
+header{
+    background: white
+    border: #cccccc;
+    border: 1px;
+    margin-bottom: 65px;
+    
+}
+
+h1{
+  float: left;
+  width: 30%;
+  padding: 10px;
+  color: #ffffff;
+  background: #4aaaa5;
+  font-family:'Georgia', Times, Times New Roman, serif;
+  padding: 20px;
+  padding-bottom: 1px;
+  margin-bottom: 0 auto;
+}
+
+nav{ 
+    float: right;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    margin-bottom: 0 auto;
+}
+
+
+h2{
+    color:teal;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    float: left; 
+
+}
+
+hr{
+    width: 30%;
+    float: left; top;
+    padding bottom: 30px;
+}
+
+div{
+    border-style: solid;
+    border-color: black;
+    border-width: 960px;
+
+}
+
+body{
+    padding-top: 20px;
+    width: 960px;
+
+
+}
